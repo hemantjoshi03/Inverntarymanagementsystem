@@ -116,6 +116,4 @@ Checkout Flask's production [deployment guide](https://flask.palletsprojects.com
 
   - Just Flask\!
 
-## License
-
-This code has been released under the [MIT License](LICENSE).
+#
