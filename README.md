@@ -1,1 +1,1 @@
-# Inverntarymanagementsystem
+inventory management System
